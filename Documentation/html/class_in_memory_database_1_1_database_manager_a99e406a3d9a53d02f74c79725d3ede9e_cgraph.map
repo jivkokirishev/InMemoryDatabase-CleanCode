@@ -1,0 +1,8 @@
+<map id="InMemoryDatabase.DatabaseManager.Agregate" name="InMemoryDatabase.DatabaseManager.Agregate">
+<area shape="rect" id="node2" href="$class_in_memory_database_1_1_managers_1_1_db_transformations.html#ac3df30d9a27b8e575d1cef811c4a7966" title="InMemoryDatabase.Managers.\lDbTransformations.Agregate" alt="" coords="249,136,451,177"/>
+<area shape="rect" id="node3" href="$class_in_memory_database_1_1_components_1_1_database.html#acc1c28d31fe635ad452055431e5e6b7d" title="InMemoryDatabase.Components.\lDatabase.GetTable" alt="" coords="499,5,717,47"/>
+<area shape="rect" id="node4" href="$class_in_memory_database_1_1_components_1_1_table.html#adb0c7e7bdd05eaea55f0f5ae77fa5789" title="InMemoryDatabase.Components.\lTable.GetColumn" alt="" coords="499,71,717,112"/>
+<area shape="rect" id="node5" href="$class_in_memory_database_1_1_components_1_1_column.html#a43dac4bce93f56b0ba0787c5d1369524" title="InMemoryDatabase.Components.\lColumn.ElementCount" alt="" coords="499,136,717,177"/>
+<area shape="rect" id="node6" href="$class_in_memory_database_1_1_components_1_1_column.html#a4c25bf9844017c491f25c47436e1b6ac" title="InMemoryDatabase.Components.\lColumn.GetElementAt" alt="" coords="499,201,717,243"/>
+<area shape="rect" id="node7" href="$class_in_memory_database_1_1_components_1_1_cell.html#a6c0970f79da0fb2b099a83bcd99ef6b8" title="InMemoryDatabase.Components.\lCell.Clone" alt="" coords="499,267,717,308"/>
+</map>

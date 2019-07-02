@@ -1,0 +1,10 @@
+<map id="InMemoryDatabase.Components.Table.AddRow" name="InMemoryDatabase.Components.Table.AddRow">
+<area shape="rect" id="node2" href="$class_in_memory_database_1_1_managers_1_1_db_table_changer.html#a7464424675a98645fbe84c93032981d7" title="InMemoryDatabase.Managers.\lDbTableChanger.Insert" alt="" coords="272,5,473,47"/>
+<area shape="rect" id="node4" href="$class_in_memory_database_1_1_managers_1_1_db_table_creator.html#a4eacd2e0b101a4a8cd0fdae359cfeb23" title="InMemoryDatabase.Managers.\lDbTableCreator.Where" alt="" coords="272,71,473,112"/>
+<area shape="rect" id="node6" href="$class_in_memory_database_1_1_managers_1_1_db_table_creator.html#a640447da69090e7d4fe69bf89b46aec7" title="InMemoryDatabase.Managers.\lDbTableCreator.InnerJoin" alt="" coords="272,136,473,177"/>
+<area shape="rect" id="node8" href="$class_in_memory_database_1_1_managers_1_1_db_table_creator.html#acf17883c9c0a7fe268f3515689faa262" title="InMemoryDatabase.Managers.\lDbTableCreator.Select" alt="" coords="272,201,473,243"/>
+<area shape="rect" id="node3" href="$class_in_memory_database_1_1_database_manager.html#a846e231cd74c51fbfb762a7aedf2f929" title="InMemoryDatabase.Database\lManager.Insert" alt="" coords="521,5,717,47"/>
+<area shape="rect" id="node5" href="$class_in_memory_database_1_1_database_manager.html#aac9a921785239f29a20868df27dc2cf9" title="InMemoryDatabase.Database\lManager.Where" alt="" coords="521,71,717,112"/>
+<area shape="rect" id="node7" href="$class_in_memory_database_1_1_database_manager.html#ae40dbdb45ebdbe9b68af387988b388d0" title="InMemoryDatabase.Database\lManager.InnerJoin" alt="" coords="521,136,717,177"/>
+<area shape="rect" id="node9" href="$class_in_memory_database_1_1_database_manager.html#a861c3d48a6a4cd54f6bb4734c50782a6" title="InMemoryDatabase.Database\lManager.Select" alt="" coords="521,201,717,243"/>
+</map>

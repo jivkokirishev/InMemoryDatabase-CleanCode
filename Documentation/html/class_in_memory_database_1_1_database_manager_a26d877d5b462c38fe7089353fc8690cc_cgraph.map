@@ -1,0 +1,5 @@
+<map id="InMemoryDatabase.DatabaseManager.RenameTable" name="InMemoryDatabase.DatabaseManager.RenameTable">
+<area shape="rect" id="node2" href="$class_in_memory_database_1_1_managers_1_1_db_table_changer.html#ab3fb993ba86310785d055cec5e953c0a" title="InMemoryDatabase.Managers.\lDbTableChanger.RenameTable" alt="" coords="249,39,455,80"/>
+<area shape="rect" id="node3" href="$class_in_memory_database_1_1_components_1_1_database.html#ac21827f097a3734a0f2f805717cb1b12" title="InMemoryDatabase.Components.\lDatabase.TableExist" alt="" coords="503,5,721,47"/>
+<area shape="rect" id="node4" href="$class_in_memory_database_1_1_components_1_1_database.html#acc1c28d31fe635ad452055431e5e6b7d" title="InMemoryDatabase.Components.\lDatabase.GetTable" alt="" coords="503,71,721,112"/>
+</map>

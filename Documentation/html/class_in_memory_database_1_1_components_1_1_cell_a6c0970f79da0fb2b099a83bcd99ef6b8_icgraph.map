@@ -1,0 +1,8 @@
+<map id="InMemoryDatabase.Components.Cell.Clone" name="InMemoryDatabase.Components.Cell.Clone">
+<area shape="rect" id="node2" href="$class_in_memory_database_1_1_managers_1_1_db_table_changer.html#a7ab4450a9cf2b19be4f3fec9cff419f3" title="InMemoryDatabase.Managers.\lDbTableChanger.AddColumn" alt="" coords="272,5,473,47"/>
+<area shape="rect" id="node4" href="$class_in_memory_database_1_1_managers_1_1_db_table_changer.html#a342cc2b23efc4a9c6fd56490742ed2b8" title="InMemoryDatabase.Managers.\lDbTableChanger.Update" alt="" coords="272,71,473,112"/>
+<area shape="rect" id="node6" href="$class_in_memory_database_1_1_managers_1_1_db_transformations.html#ac3df30d9a27b8e575d1cef811c4a7966" title="InMemoryDatabase.Managers.\lDbTransformations.Agregate" alt="" coords="272,136,473,177"/>
+<area shape="rect" id="node3" href="$class_in_memory_database_1_1_database_manager.html#a40d78f39c396868667a9fe502e3b4215" title="InMemoryDatabase.Database\lManager.AddColumn" alt="" coords="521,5,717,47"/>
+<area shape="rect" id="node5" href="$class_in_memory_database_1_1_database_manager.html#ae18bbcb16e177d2d134ea93366005fd7" title="InMemoryDatabase.Database\lManager.Update" alt="" coords="521,71,717,112"/>
+<area shape="rect" id="node7" href="$class_in_memory_database_1_1_database_manager.html#a99e406a3d9a53d02f74c79725d3ede9e" title="InMemoryDatabase.Database\lManager.Agregate" alt="" coords="521,136,717,177"/>
+</map>
