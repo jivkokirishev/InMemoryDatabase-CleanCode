@@ -1,0 +1,5 @@
+<map id="InMemoryDatabase.DatabaseManager.Insert" name="InMemoryDatabase.DatabaseManager.Insert">
+<area shape="rect" id="node2" href="$class_in_memory_database_1_1_managers_1_1_db_table_changer.html#a7464424675a98645fbe84c93032981d7" title="InMemoryDatabase.Managers.\lDbTableChanger.Insert" alt="" coords="249,39,451,80"/>
+<area shape="rect" id="node3" href="$class_in_memory_database_1_1_components_1_1_database.html#acc1c28d31fe635ad452055431e5e6b7d" title="InMemoryDatabase.Components.\lDatabase.GetTable" alt="" coords="499,5,717,47"/>
+<area shape="rect" id="node4" href="$class_in_memory_database_1_1_components_1_1_table.html#aa174ca9c73c5380514fca3a99b3cdd3a" title="InMemoryDatabase.Components.\lTable.AddRow" alt="" coords="499,71,717,112"/>
+</map>
